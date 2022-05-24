@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Estevão Basso
 - 👀 I’m interested in evolve on my area and learn everything that I can
-- 🌱 I’m currently studing Web Application (html and css) and Python as backend language
-- 💞 I currently work as techinc support in a callcenter
+- 🌱 I’m currently studing Web Application (html and css) and Python as backend language, college: System Analysis and Development
+- 💞 I'm working as techinc support in a callcenter
 - 📫 My e-mail: ebch.soares@outlook.com
 
 <!---
